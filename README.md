@@ -13,3 +13,5 @@ available [here][2].
 
 [1]: ./training/README.md
 [2]: ./server/README.md
+
+Alunos: Gabriel Covello Furlanetto e Evelyn Tenan Ribeiro
