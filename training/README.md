@@ -86,3 +86,5 @@ The evaluation will be based on four criteria:
 [4]: https://docs.docker.com/get-docker
 [5]: https://docs.docker.com/compose/install
 [6]: https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+
+Alunos: Gabriel Covello Furlanetto e Evelyn Tenan Ribeiro
